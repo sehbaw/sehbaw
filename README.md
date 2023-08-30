@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sehbaw
-- Passionate about using tech for social justice, social work and anything that actually matters 
+- Passionate about using tech for social justice, social work and anything that involves bettering the human experience for all (with and without technology involvement)
 - Really interested generative art (definitely not AI-generated art though) and creative technology as a whole
 - Always learning javascript (does anyone ever really learn javascript though?)
 <!---
