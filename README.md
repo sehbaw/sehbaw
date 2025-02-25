@@ -2,7 +2,7 @@ i just wanna make cool stuff...specifically at the intersection of technology an
 <br>
 dabbling in cybersec, GIS, data vis, creative tech, etc. 
 
-<br> ['https://sehbaw.github.io'] (Portfolio Website)
+<br> [https://sehbaw.github.io] (Portfolio Website)
 <br> [](Creative Portfolio Website) 
 <!---
 sehbaw/sehbaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
