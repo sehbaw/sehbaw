@@ -1,6 +1,6 @@
 i just wanna make cool stuff...specifically at the intersection of technology and social justice/art/humanities<br>
 <br>
-dabbling in cybersec, GIS, data vis, creative tech, etc. 
+dabbling in a little bit of everything...or trying to 
 
 [Portfolio](https://sehbaw.github.io/)
 [Creative Portfolio](https://www.glitch.com/)
