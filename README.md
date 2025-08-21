@@ -1,4 +1,5 @@
-[//]: i just wanna make cool stuff...specifically at the intersection of technology and social justice/art/humanities<br>
+
+[comment]: <> ([//]: i just wanna make cool stuff...specifically at the intersection of technology and social justice/art/humanities<br>)
 <br>
 dabbling in a little bit of everything...or trying to 
 
