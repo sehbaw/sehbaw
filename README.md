@@ -4,7 +4,7 @@
 dabbling in a little bit of everything...or trying to 
 
 [portfolio](https://sehbaw.github.io/) <br>
-[creative Portfolio](https://www.digitalbe.ing)
+[creative Portfolio](https://www.digitaltimebe.ing)
 
 Find me on [codeberg](https://codeberg.org/digitalbeing) && [tangled.org](https://tangled.org/@swan.tngl.sh)
 
