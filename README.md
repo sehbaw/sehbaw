@@ -3,7 +3,7 @@
 <br>
 dabbling in a little bit of everything...or trying to 
 
-[portfolio](https://sehbaw.github.io/) <br>
+[portfolio](https://sehbaw.github.io/) <br> [under construction right now]
 
 Find me on [codeberg](https://codeberg.org/digitalbeing) && [tangled.org](https://tangled.org/@swan.tngl.sh)
 
